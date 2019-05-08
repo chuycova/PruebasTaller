@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola
+=======
+Cambio nuevo
+>>>>>>> a1ceb222b440ddafdb6bf7f4766c4b41fb0453d2
